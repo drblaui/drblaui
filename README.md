@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently doing my Bachelors Degree in computer science. I love programming and would do anything to automate every single thing in my life<br><br>I work as a tutor at the Freie Universität Berlin and as a working Student at the German Red Cross Rhineland-Palatinate with my main focus being the [SPELL Project](https://spell-plattform.de)
+I'm currently doing my Bachelors Degree in computer science. I love programming and would do anything to automate every single thing in my life<br><br>I work full time at the German Red Cross Rhineland-Palatinate with my main focus being the [SPELL Project](https://spell-plattform.de)
 
 
 # 💻 Tech Stack:
