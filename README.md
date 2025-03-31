@@ -1,5 +1,5 @@
 # 💫 About Me:
-I finished my Bachelors Degree in Computer Sience at the Free University Berlin (read my Bachelors Thesis [here](https://refubium.fu-berlin.de/handle/fub188/44174)). I love programming and would do anything to automate every single thing in my life<br><br>I work full time at the German Red Cross Rhineland-Palatinate with my main focus being the [SPELL Project](https://spell-plattform.de)
+I finished my Bachelors Degree in Computer Sience at the Free University Berlin (read my Bachelors Thesis [here](https://refubium.fu-berlin.de/handle/fub188/44174)). I love programming and would do anything to automate every single thing in my life<br><br>I work full time at the German Red Cross Rhineland-Palatinate with my main focus being the [Learn2RAG](https://learn2rag.de) project. I also contributed to the [SPELL Project](https://spell-plattform.de) and am still actively involved in the subgoal called "TrustifAI" in [Mission KI](https://mission-ki.de/).
 
 
 # 💻 Tech Stack:
